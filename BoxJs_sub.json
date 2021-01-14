@@ -22,6 +22,15 @@
       "repo": "https://github.com/chavyleung/scripts/blob/master/csdn/csdn.js",
       "script": "https://github.com/chavyleung/scripts/raw/master/csdn/csdn.js",
       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/csdn.png", "https://raw.githubusercontent.com/Orz-3/task/master/csdn.png"]
+    },
+    {
+      "id": "cmb_credit_card_wx",
+      "name": "招行信用卡 (公众号)",
+      "keys": ["iNotificatioin_cmbchina_cookieKey", "iNotificatioin_cmbchina_userAgentKey"],
+      "author": "@eric1932, @iNotification",
+      "repo": "https://github.com/nzw9314/QuantumultX/master/Task/cmbchina.js",
+      "script": "https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task/cmbchina.js",
+      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/cmbchina.png", "https://raw.githubusercontent.com/Orz-3/task/master/cmbchina.png"]
     }
   ]
 }
