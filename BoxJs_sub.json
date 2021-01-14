@@ -13,6 +13,15 @@
       "repo": "https://github.com/chavyleung/scripts/blob/master/everphoto/everphoto.js",
       "script": "https://github.com/chavyleung/scripts/raw/master/everphoto/everphoto.js",
       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/everphoto.png", "https://raw.githubusercontent.com/Orz-3/task/master/everphoto.png"]
+    },
+    {
+      "id": "csdn",
+      "name": "CSDN",
+      "keys": ["chavy_tokenurl_csdn", "chavy_tokenheader_csdn", "chavy_signurl_csdn", "chavy_signheader_csdn"],
+      "author": "@eric1932, @chavyleung",
+      "repo": "https://github.com/chavyleung/scripts/blob/master/csdn/csdn.js",
+      "script": "https://github.com/chavyleung/scripts/raw/master/csdn/csdn.js",
+      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/csdn.png", "https://raw.githubusercontent.com/Orz-3/task/master/csdn.png"]
     }
   ]
 }
