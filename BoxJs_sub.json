@@ -1,0 +1,19 @@
+{
+  "id": "eric1932.app.sub",
+  "name": "eric1932对于他人订阅的补充",
+  "author": "@eric1932",
+  "icon": "https://avatars1.githubusercontent.com/u/10938293",
+  "repo": "https://github.com/eric1932/BoxJs_Subscription_complement",
+  "apps": [
+    {
+      "id": "everphoto",
+      "name": "时光相册",
+      "keys": ["chavy_sign_url_everphoto", "chavy_sign_header_everphoto"],
+      "settings": [],
+      "author": "@eric1932, @chavyleung",
+      "repo": "https://github.com/chavyleung/scripts/blob/master/everphoto/everphoto.js",
+      "script": "https://github.com/chavyleung/scripts/raw/master/everphoto/everphoto.js",
+      "icons": ["https://avatars1.githubusercontent.com/u/10938293"]
+    }
+  ]
+}
